@@ -53,6 +53,7 @@ class MyController extends Controller
         foreach ($newObjArr as $tmp){
             $tmp->{'id'}=$this->getServiceId($tmp->serviceId);
         }
+
         return $newObjArr;
     }
 
