@@ -1,5 +1,5 @@
 Create database with name: yii2basic</br>
-To add tables to DB use command: yii migrate
+To add tables to DB use command: yii migrate</br>
 Installed libs: linslin/yii2-curl</br>
 
 app is downlading images by tags 'car' or you can use multiple tags in search like 'car,red'</br>
